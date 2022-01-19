@@ -7,6 +7,6 @@ Two-dimensional (2D) vector graphics is really important tool for computer graph
 
 In the following, there are some example outputs.
 
-<img src="images/image1.png" alt="a" width="300"/>
-<img src="images/image2.png" alt="a" width="300"/>
-<img src="images/image3.png" alt="a" width="300"/>
+<img src="images/image1.png" alt="a" width="500"/>
+<img src="images/image2.png" alt="a" width="800"/>
+<img src="images/image3.png" alt="a" width="700"/>
